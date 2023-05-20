@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React, { useState, useEffect } from "react";
 import Menu from "./Menu";
 import MenuMobile from "./MenuMoBile";
@@ -7,7 +6,7 @@ import { IoMdHeartEmpty } from "react-icons/io";
 import { BsCart } from "react-icons/bs";
 import { BiMenuAltRight } from "react-icons/bi";
 import { VscChromeClose } from "react-icons/vsc";
-import { WindowsFilled } from "@ant-design/icons";
+import Link from "next/link";
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);

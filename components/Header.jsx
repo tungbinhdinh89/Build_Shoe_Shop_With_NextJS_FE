@@ -7,7 +7,6 @@ import { IoMdHeartEmpty } from "react-icons/io";
 import { BsCart } from "react-icons/bs";
 import { BiMenuAltRight } from "react-icons/bi";
 import { VscChromeClose } from "react-icons/vsc";
-import { WindowsFilled } from "@ant-design/icons";
 
 const Header = () => {
   const [mobileMenu, setMobileMenu] = useState(false);

@@ -38,3 +38,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Build_Shoe_Shop_With_NextJS_FE
 # Build_Shoe_Shop_With_NextJS_FE
+
+
+
+tuotorior youtube:
+backend: https://www.youtube.com/watch?v=a_GYyOijWBc&t=3664s
+
+frontend: https://www.youtube.com/watch?v=8xf78RNtfHY&list=RDCMUCRJz8FP29yq_vA5h08dXMPw&index=2
